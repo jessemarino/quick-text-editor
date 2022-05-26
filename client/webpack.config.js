@@ -26,6 +26,8 @@ module.exports = () => {
       new GenerateSW(),
       // Creates a manifest.json file.
       new WebpackPwaManifest({
+        fingerprints: false,
+        inject: true,
         name: "jate",
         short_name: "jate",
         description: "Take some notes!",
