@@ -4,7 +4,7 @@
 
 ## Description
 
-My motivation for this project was to create an app that would allow users to quickly write and save notes. This app will keep all of your notes even if you leave or refresh the page. 
+My motivation for this project was to create an app that would allow users to quickly write and save notes. This app will keep all of your notes even if you leave or refresh the page. Use this app on the web or press the insall button and use it locally!
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ My motivation for this project was to create an app that would allow users to qu
 To install necessary dependencies run the following command
 
 ```md
-npm init -y 
+npm init -y
 npm i
 ```
 
@@ -40,6 +40,6 @@ If you would like to contribute please fork the repo and submit a pull request.
 
 If you have any questions please reach out via Github, my username is jessemarino.
 
-![screenshot](./client/src/images/texteditor.png)
+![screenshot](./client/src/images/jatetextedit.png)
 
 URL to Webpage: https://infinite-headland-27852.herokuapp.com/
