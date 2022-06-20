@@ -4,7 +4,7 @@
 
 ## Description
 
-My motivation for this project was to create an app that would allow users to quickly write and save notes. This app will keep all of your notes even if you leave or refresh the page. Use this app on the web or press the insall button and use it locally!
+My motivation for this project was to create an app that would allow users to quickly write and save notes. This app will keep all of your notes even if you leave or refresh the page. Use this app on the web or press the install button and use it locally!
 
 ## Table of Contents
 
